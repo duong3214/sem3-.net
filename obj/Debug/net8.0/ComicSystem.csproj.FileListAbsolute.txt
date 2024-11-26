@@ -1,0 +1,10 @@
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.csproj.AssemblyReference.cache
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.AssemblyInfoInputs.cache
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.AssemblyInfo.cs
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.csproj.CoreCompileInputs.cache
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.RazorAssemblyInfo.cache
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.RazorAssemblyInfo.cs
+D:\file_c#_school\c#\bai1sem3\ComicSystem\obj\Debug\net8.0\ComicSystem.sourcelink.json
